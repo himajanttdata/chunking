@@ -58,4 +58,10 @@ public class BankingSystem {
                 case 4:
                     System.out.println("Exiting...");
                     return;
-                default
+                default:
+                    System.out.println("Invalid option!");
+            }
+        }
+    }
+}
+
